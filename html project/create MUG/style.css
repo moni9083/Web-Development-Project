@@ -1,0 +1,23 @@
+img{
+   
+   height: 500px;
+    border-top-left-radius:30px;
+    border-bottom-left-radius: 30px;
+}
+h3{
+    color: gray;
+}
+.text{
+    background-color:whitesmoke;
+}
+.main{
+    display:flex;
+}
+.wrapper{
+    min-height: 100vh;
+     background-color:rgba(239, 220, 195, 0.76) ; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
